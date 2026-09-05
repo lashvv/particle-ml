@@ -1,3 +1,5 @@
 venv/
 data/raw/
 .jupyter/
+notebooks/.ipynb_checkpoints/
+
